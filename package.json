@@ -1,4 +1,10 @@
 {
-  "name": "micahshimizu",
-  "packageManager": "yarn@4.2.2"
+  "devDependencies": {
+    "tailwindcss": "^3.4.3"
+  },
+  "packageManager": "yarn@4.2.2",
+  "dependencies": {
+    "@material-tailwind/react": "^2.1.9",
+    "firebase": "^10.12.0"
+  }
 }
